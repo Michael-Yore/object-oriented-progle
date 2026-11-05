@@ -1,0 +1,31 @@
+#BlueJ class context
+#Sun Oct 18 13:03:26 BST 2026
+comment0.target=Gym
+comment1.params=capacity staffReq currStaff occupancy currRate
+comment1.target=Gym(int, int, int, int, int)
+comment10.params=m
+comment10.target=void leave(Member)
+comment11.params=id
+comment11.target=boolean silentSearch(int)
+comment12.params=id
+comment12.target=void memSearch(int)
+comment13.target=void present()
+comment14.target=void roomList()
+comment15.target=void allPeople()
+comment2.params=m
+comment2.target=void addMem(Member)
+comment3.params=s
+comment3.target=void addStaff(Staff)
+comment4.params=r
+comment4.target=void addRoom(Room)
+comment5.params=ammount
+comment5.target=void addRooms(int)
+comment6.params=m
+comment6.target=void assignRoom(Machine)
+comment7.params=s
+comment7.target=void staffEnter(Staff)
+comment8.params=s
+comment8.target=void staffLeave(Staff)
+comment9.params=m
+comment9.target=void enter(Member)
+numComments=16

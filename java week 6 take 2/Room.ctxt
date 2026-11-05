@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Oct 18 13:03:26 BST 2026
+comment0.target=Room
+comment1.params=roomNum
+comment1.target=Room(int)
+comment2.target=int getRoomNum()
+comment3.params=m
+comment3.target=void addMachine(Machine)
+comment4.target=void listMachines()
+numComments=5

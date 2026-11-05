@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Oct 18 13:03:26 BST 2026
+comment0.target=Machine
+comment1.params=name roomNum maxWeight gym
+comment1.target=Machine(java.lang.String, int, int, Gym)
+comment2.target=java.lang.String getName()
+comment3.target=int getMaxWeight()
+comment4.target=int getRoomNum()
+numComments=5

@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sun Oct 18 13:03:26 BST 2026
+comment0.target=Person
+comment1.params=name id present gym
+comment1.target=Person(java.lang.String, int, boolean, Gym)
+comment2.target=java.lang.String getName()
+comment3.target=int getId()
+comment4.target=boolean isPresent()
+comment5.params=state
+comment5.target=void setPresent(boolean)
+comment6.target=void getInfo()
+numComments=7

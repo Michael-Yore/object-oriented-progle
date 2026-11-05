@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Oct 18 13:03:26 BST 2026
+comment0.target=Staff
+comment1.params=name id present gym role
+comment1.target=Staff(java.lang.String, int, boolean, Gym, java.lang.String)
+comment2.target=java.lang.String getRole()
+comment3.target=java.lang.String getName()
+comment4.target=void getInfo()
+numComments=5
